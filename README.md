@@ -7,23 +7,7 @@
 </p>
 
 # Vitor Prado
-<sub>*Data Scientist* </sub>
-
-
-## Projetos:
-
-
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
-
----
-
-# ALOCAR
+## <sub>*Data Scientist* </sub>
 
 
 ## **Projetos**
@@ -84,26 +68,13 @@ Esse portfólio conta com projetos práticos e alguns artigos que postei no meu 
 
 ## Sobre mim
 
-Profissional com mais de 7 anos de experiência em análise de dados, planejamento estratégico e pricing, com atuação no setor de varejo multicanal e operações de importação. Ao longo da minha trajetória, desenvolvi competências em modelagem preditiva, gestão de processos, estratégias de precificação para canais B2B, B2C e marketplaces. Possuo habilidades em liderança, desenvolvimento de automações em processos operacionais e implementação de soluções de inteligência de negócios. Minha evolução no Grupo Ecoa demonstra crescimento acelerado, partindo de assistente financeiro até analista pleno com responsabilidades em planejamento de demanda e gestão de equipe. 
+Graduado em administração de empresas desde 2022, comecei a estudar ciencia de dados de verdade em 2024 
 
-Domino Python, Excel avançado, VBA, Power BI e técnicas de machine learning aplicadas à previsão de demanda, web scraping para inteligência competitiva e modelagem de pricing. Tenho expertise na aplicação de metodologias como DMAIC Lean Six Sigma, S&OP, análise de séries temporais e ERPs como TOTVs Protheus, Winthor, Sankhya e Millennium. Atualmente lidero time de analistas e sou responsável pela governança de dados de cadastro, revisão de políticas de precificação e implementação de ciclos de planejamento integrado que conectam demanda, estoque e suprimentos. Possuo formação em Administração com especialização técnica em análise de dados, combinando visão de negócios com conhecimento aplicado à melhoria de processos e decisão data-driven.
+Atualmente tenho 7 anos atuando no varejo, minha trajetoria profissional tem passagens pelo Financeiro, 
 
-**Background in:** Python, Machine Learning, supply chain, pricing.
+Tenho +1,5 anos de experiencia usando a linguagem de programação Python para analisar, visualizar e buscar por dados usando bibliotecas como: Pandas, Numpy, Matplotlib, Seaborn, Plotly, Selenium e Beeaflow.
 
-**Links:**
-* 
-* 
-
-
-
-
-
-
-Graduanda em Engenharia de Software e com previsão de conclusão para o segundo semestre de 2025, comecei a estudar Ciência de Dados em 2022. Conheci e comecei a estudar sobre essa área de IA após assistir alguns vídeos sobre a Nasa, astronautas e seus foguetes, consequentemente me apaixonando por dados e seus poderes. Meu objetivo é usar dados para obter insights e fazer a diferença no negócio.
-
-Tenho +1.5 anos de experiência usando a linguagem de programação Python para analisar e visualizar dados usando bibliotecas como: Pandas, Numpy, Matplotlib, Seaborn e Plotly. Também uso a linguagem para trabalhar com algoritmos de Machine Learning e Deep Learning usando frameworks como TensorFlow ou PyTorch com foco em Processamento de Linguagem Natural (PNL).
-
-Também possuo experiência com a ferramenta Excel para manipular dados, criar gráficos e relatórios, além de integrar com outras ferramentas. Conhecimento em ferramentas de ETL (Extract, Transform, Load) para coletar, transformar e carregar dados de diferentes fontes para o banco de dados. Conhecimento de SQL para trabalhar com bancos de dados, realizar consultas, manipular dados e desenvolver relatórios. Com a ferramenta Power BI, possuo capacidade de criar dashboards, relatórios e visualizar dados para apoiar a gestão da empresa.
+**Background in:** Python, Machine Learning, Supply Chain, Pricing. 
 
 Eu escrevo sobre Análise de dados, Machine Learning/IA, matemática e estatística no meu perfil do Medium, [Medium](https://medium.com/@prado1bernardo)
 Visite o meu perfil no LinkedIn também [LinkedIn](https://www.linkedin.com/in/vitor-prado-104a231a1/)
