@@ -81,7 +81,50 @@ Visite o meu perfil no LinkedIn também [LinkedIn](https://www.linkedin.com/in/v
 
 
 
+## Sobre mim
 
+### Atualmente estou desempenhando uma função de Analista de Planejamento de Demanda Pleno | Cientista de Dados focado em Negócios
 
+Tenho +7,5 anos de experiência no setor de varejo e operações de importação, minha trajetória tem inicio na área Financeira (contas a receber) para Pricing e Planejamento de Demanda (S&OP).
 
+Combino minha formação em Administração e visão estratégica de negócios com um domínio técnico avançado em Programação e Estatística.
+Não apenas analiso dados, mas construo ferramentas automatizadas e modelos preditivos que resolvem dores reais da operação.
+
+---
+
+###  Destaques da Carreira & Expertise
+
+Atualmente lidero frentes de **Governança de Dados** e **Previsão de Demanda**, onde aplico técnicas avançadas para reduzir incertezas e otimizar estoques.
+
+* **Forecasting Avançado:** Desenvolvimento de modelos de previsão de demanda utilizando algoritmos de Machine Learning (**XGBoost**) e séries temporais (**Prophet, ARIMA**), aplicando técnicas como *walk-forward validation* e reconciliação hierárquica.
+* **Inteligência Competitiva (Web Scraping):** Criação de robôs com **Selenium** e **BeautifulSoup** para monitoramento automatizado de preços de concorrentes e validação de *sell-out*.
+* **Pricing & Estratégia:** Modelagem de precificação B2B/B2C, simulação de cenários de importação e gestão de margem.
+* **Automação de Processos:** Economia de centenas de horas manuais através de scripts em **Python**, **VBA** e fluxos no **Power Automate** para conciliação financeira e auditoria de dados.
+
+---
+
+### Dominio Técnico
+
+####  Python & Data Science
+| Categoria | Ferramentas / Bibliotecas |
+| :--- | :--- |
+| **Manipulação de Dados** | `Pandas`, `NumPy` |
+| **Machine Learning** | `Scikit-Learn`, `XGBoost` |
+| **Time Series** | `Prophet`, `ARIMA`, `Statsmodels` |
+| **Web Scraping** | `Selenium`, `BeautifulSoup`, `Requests` |
+| **Visualização** | `Matplotlib`, `Seaborn`, `Plotly` |
+
+####  Business Intelligence & Processos
+* **Ferramentas:** Power BI (DAX avançado), Excel Avançado (Power Query), Power Automate.
+* **Sistemas (ERPs):** TOTVS (Protheus, Winthor), Sankhya, Millennium.
+* **Metodologias:** S&OP, Lean Six Sigma (DMAIC), Metodologias Ágeis (Scrum/Kanban).
+
+---
+
+### Contato
+Estou sempre aberto a trocas.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-prado-104a231a1/) 
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@prado1bernardo)
 
