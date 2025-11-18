@@ -54,30 +54,6 @@ Esse portfólio conta com projetos práticos e alguns artigos que postei no meu 
   - Esse projeto foi realizado dentro da plataforma do Kaggle e contém uma Análise Exploratória dos dados para depois a criação do modelo de previsão em si.
   - **[Clique aqui para mais informações sobre os resultados e conclusões do projeto.](https://www.kaggle.com/code/lainetnr/eda-and-fraud-detection-using-xgboost)**
 
-## **SQL**
-
-### Analisando dados de vendas com DB Browser (SQLite)
-  - Ao analisar dados de vendas usando SQL, as empresas podem obter insights sobre seu desempenho de vendas, identificar áreas para melhoria e tomar decisões baseadas em dados para aumentar a receita e a lucratividade.
-  - A análise tem como propósito responder algumas perguntas e uma dela foi: Quais lojas geraram mais receita para o varejista?
-  - Tudo sobre essa análise está [neste artigo do Medium](https://medium.com/@lainetnr/analisando-dados-de-vendas-com-db-browser-sqlite-77f1e4631d9a).
-
-### Análise de Churn usando SQL
-  - O objetivo desse projeto é fazer uma análise exploratória usando SQL, a fim de entender o comportamento dos clientes e consequentemente desenvolver estratégias de retenção de clientes.
-  - Tudo sobre essa análise está [neste artigo do Medium](https://medium.com/@lainetnr/an%C3%A1lise-de-churn-usando-sql-excel-parte-1-2e49c7a1cafb)
-
-
-## Sobre mim
-
-Graduado em administração de empresas desde 2022, comecei a estudar ciencia de dados de verdade em 2024 
-
-Atualmente tenho 7 anos atuando no varejo, minha trajetoria profissional tem passagens pelo Financeiro, 
-
-Tenho +1,5 anos de experiencia usando a linguagem de programação Python para analisar, visualizar e buscar por dados usando bibliotecas como: Pandas, Numpy, Matplotlib, Seaborn, Plotly, Selenium e Beeaflow.
-
-**Background in:** Python, Machine Learning, Supply Chain, Pricing. 
-
-Eu escrevo sobre Análise de dados, Machine Learning/IA, matemática e estatística no meu perfil do Medium, [Medium](https://medium.com/@prado1bernardo)
-Visite o meu perfil no LinkedIn também [LinkedIn](https://www.linkedin.com/in/vitor-prado-104a231a1/)
 
 
 
