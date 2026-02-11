@@ -86,10 +86,11 @@ Atualmente lidero frentes de **Governança de Dados** e **Previsão de Demanda**
 | Categoria | Ferramentas / Bibliotecas |
 | :--- | :--- |
 | **Manipulação de Dados** | `Pandas`, `NumPy` |
+
 | **Machine Learning** | `Scikit-Learn`, `XGBoost` |
 | **Time Series** | `Prophet`, `ARIMA`, `Statsmodels` |
 | **Web Scraping** | `Selenium`, `BeautifulSoup`, `Requests` |
-| **Visualização** | `Matplotlib`, `Seaborn`, `Plotly` |
+| **Visualização** | `Matplotlib`, `Seaborn`, `Plotly`, `wordcloud`, ` `,` `  |
 
 ####  Business Intelligence & Processos
 * **Ferramentas:** Power BI (DAX avançado), Excel Avançado (Power Query), Power Automate.
